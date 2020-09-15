@@ -1,10 +1,8 @@
 {
-  "name": "components",
+  "name": "jsx",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^4.4.3",
-    "faker": "^5.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
